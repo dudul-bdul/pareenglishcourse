@@ -1,6 +1,6 @@
 ---
-title: This is the second example post
-date: 2020-01-01T08:00:00.000Z
+title: Second Example Post
+date: 2022-09-29T03:36:23.663Z
 summary: Bring to the table win-win survival strategies to ensure proactive domination.
 tags:
   - sport

@@ -1,10 +1,9 @@
 ---
-title: Images can be added to posts
-date: 2020-02-03T08:00:00.000Z
+title: Images Added to Posts
+date: 2022-09-29T03:35:16.375Z
 summary: Add a random image to your post using unsplash
 tags:
   - environment
-  - politics
 ---
 Random Unsplash Image added below:
 
