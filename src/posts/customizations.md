@@ -1,6 +1,6 @@
 ---
-title: Theme customizations
-date: 2020-10-15T12:23:39.598Z
+title: Theme Customizations
+date: 2022-09-29T03:35:02.583Z
 summary: Modify Fernfolio to meet your needs
 tags:
   - environment
