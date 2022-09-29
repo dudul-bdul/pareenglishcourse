@@ -1,5 +1,5 @@
 ---
-title: Images can be added to posts
+title: Images Added to Posts
 date: 2022-09-29T03:35:16.375Z
 summary: Add a random image to your post using unsplash
 tags:
